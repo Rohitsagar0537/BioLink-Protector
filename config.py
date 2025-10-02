@@ -1,5 +1,5 @@
-# Copyright (C) @TheSmartBisnu
-# Channel: https://t.me/itsSmartDev
+# Copyright (C) @FZ_CREATOR 
+# Channel: https://t.me/BOT_X_SUPPORT 
 
 import re
 
